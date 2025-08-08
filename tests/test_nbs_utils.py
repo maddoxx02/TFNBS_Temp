@@ -1,7 +1,8 @@
 import unittest
 import numpy as np
 from tfnbs.nbs_utils import nbs_bct
-from tfnbs.utils import generate_fc_matrices, fisher_r_to_z
+from tfnbs.utils import fisher_r_to_z
+from tfnbs.datasets import generate_fc_matrices
 
 
 class TestNBSUtils(unittest.TestCase):

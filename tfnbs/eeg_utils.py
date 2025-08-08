@@ -288,9 +288,8 @@ def inverse_reshape_eeg_data(
         Returns:
             original_data (np.ndarray): Original EEG data of shape (n_subjects, chan_pairs, num_freqs) or (chan_pairs, num_freq)
 
-        # >>> from tfnbs.eeg_utils import reshape_eeg_data
         >>> n_pairs = np.random.rand(2, len(PairsElectrodes1020(Electrodes).electrode_pairs), 3)
-        >>> reshaped_data = eshape_eeg_data(n_pairs, reshape_bands=True)
+        >>> reshaped_data = reshape_eeg_data(n_pairs, reshape_bands=True)
         >>> reshaped_data.shape 
         (2, 57, 57)
         >>> inverse_data = inverse_reshape_eeg_data(reshaped_data, reshape_bands=True)
