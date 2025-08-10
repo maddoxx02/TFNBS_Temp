@@ -4,9 +4,7 @@
 ``TFNBS`` 
 
 <!--- [pypi version] -->
-[![size]](https://img.shields.io/github/repo-size/maddoxx02/TFNBS_Temp)](https://img.shields.io/github/repo-size/maddoxx02/TFNBS_Temp)
-[license]https://img.shields.io/github/license/maddoxx02/TFNBS_Temp?color=darkgreen
-[size]https://img.shields.io/github/repo-size/maddoxx02/TFNBS_Temp
+![size](https://img.shields.io/github/repo-size/maddoxx02/TFNBS_Temp)
 
 
 TFNBS Toolbox is a Python package for computation and generation of network-based statistics for neuroscience data 
@@ -41,6 +39,7 @@ To cite the toolbox, you can use: [doi]() and refer to the paper [paper_doi]()
 ```
 
 For further discussions or reports on bugs, please contact [test@email.com]()
+
 
 
 
