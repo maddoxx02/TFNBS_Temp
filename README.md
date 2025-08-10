@@ -4,8 +4,8 @@
 ``TFNBS`` 
 
 <!--- [pypi version] -->
-[license]https://img.shields.io/github/license/iknyazeva/TFNBS?color=darkgreen
-[size]https://img.shields.io/github/repo-size/iknyazeva/tfnbs
+[license]https://img.shields.io/github/license/maddoxx02/TFNBS_Temp?color=darkgreen
+[size]https://img.shields.io/github/repo-size/maddoxx02/TFNBS_Temp
 
 
 TFNBS Toolbox is a Python package for computation and generation of network-based statistics for neuroscience data 
@@ -17,7 +17,7 @@ massively reducing computation time and resources.
 
 Overview.png
 
-![Overview of TFNOS](docs/TFNBS_Pipeline.png)
+![Overview of TFNOS](docs/Figure_Overview.png)
 
 ## Installation 
 TFNOS toolbox can be installed using: 

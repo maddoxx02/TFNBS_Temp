@@ -197,7 +197,6 @@ def read_from_eeg_dataframe(path_to_df,
             (pairs_dict.keys()) (tuple): Electrode pairs as a tuple. 
             bands (Enum): Returned as Bands class of frequency bands.
 
-    # '..\datasets\eeg_dataframe_nansfilled.csv'
     >>> eeg_data = read_from_eeg_dataframe('datasets\eeg_dataframe_nansfilled.csv', cond_prefix='fo')
     >>> eeg_data.data.shape
     (177, 171, 7)
