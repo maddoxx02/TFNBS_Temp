@@ -28,7 +28,7 @@ TFNOS toolbox can be installed using:
 
 ## Documentation
 
-For more information on TFNBS's features, modules and usage, please refer to the [official documentation](). 
+For more information on TFNBS's features, modules and usage, please refer to the [official documentation](https://maddoxx02.github.io/TFNBS_Temp/). 
 
 Examples of usage on fMRI and EEG data are avaialble in [notebooks]() and [data](). 
 
@@ -40,3 +40,4 @@ To cite the toolbox, you can use: [doi]() and refer to the paper [paper_doi]()
 ```
 
 For further discussions or reports on bugs, please contact [test@email.com]()
+
